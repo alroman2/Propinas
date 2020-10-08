@@ -35,12 +35,11 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+There were goals to implement a custom keyboard UI that would better match the look and feel of the app, however, there bugs associated with getting user inputs
+There was another goal of creating a dynamic settings page that would better scale as features increased, however, there were issues with passing data from table controllers to controled views, and ultimately to the controller swift file
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Alexander Roman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
