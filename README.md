@@ -30,8 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://gph.is/g/EG71GvJ
-
+https://media.giphy.com/media/N7LCvDrZidx08KvZKi/giphy.gif
 
 ## Notes
 There were goals to implement a custom keyboard UI that would better match the look and feel of the app, however, there bugs associated with getting user inputs
