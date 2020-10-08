@@ -30,9 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/N7LCvDrZidx08KvZKi" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/N7LCvDrZidx08KvZKi">via GIPHY</a></p>
+https://gph.is/g/EG71GvJ
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 There were goals to implement a custom keyboard UI that would better match the look and feel of the app, however, there bugs associated with getting user inputs
